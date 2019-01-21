@@ -17,7 +17,7 @@ resume-external: true
 resume-eng: assets/files/resume.pdf
 resume-pt: assets/files/curriculo.pdf
 
-url: https://wagjub.github.io
+url: https://costavalerio.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
